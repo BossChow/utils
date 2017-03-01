@@ -495,3 +495,5 @@
     static void	unCompress(java.io.File source, java.lang.String path)
     文档解压
     static void	zipFile(java.io.File inFile, java.util.zip.ZipOutputStream zos, java.lang.String dir)
+
+testing
